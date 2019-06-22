@@ -193,7 +193,7 @@ cd $HOME/dotnet
 and execute the `dotnet` command here. Alternatively, you can use the full path classification:
 
 ```
-cd $HOME/dotnet/dotnet
+$HOME/dotnet/dotnet
 ```
 
 ## Links
