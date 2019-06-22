@@ -109,7 +109,7 @@ You can customize this link to whatever version of .NET Core SDK you want.
 After download, you have to unpack the binaries:
 
 ```
-tar zxf dotnet-sdk-3.0.100-preview6-012264-linux-arm.tar.gz -C $HOME/dotnet
+tar zxf ./dotnet-sdk-3.0.100-preview6-012264-linux-arm.tar.gz -C $HOME/dotnet
 ```
 
 For an easy use of .NET environment, you can execute:
