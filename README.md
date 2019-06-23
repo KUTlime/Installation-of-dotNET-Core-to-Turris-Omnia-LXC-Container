@@ -41,10 +41,7 @@ Install prerequisites:
 
 ```
 apt-get update
-apt-get install sudo
-apt-get install nano
-apt-get install wget
-apt-get install git-core openssh-server rsync sudo fakeroot cifs-utils -y
+apt-get install wget nano git-core openssh-server rsync sudo fakeroot cifs-utils -y
 ```
 
 SSH is not really necessary but it may become handy sooner or later.
