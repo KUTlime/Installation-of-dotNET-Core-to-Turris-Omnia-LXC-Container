@@ -197,7 +197,7 @@ $HOME/dotnet/dotnet
 [Download .NET Core 3.0 Portal](https://dotnet.microsoft.com/download/dotnet-core/3.0)<br>
 [Build your first .NET Core app](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)<br>
 [dotNET Core 3.0 SDK - Linux ARM32 Binaries (v3.0.100-preview6)](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-3.0.100-preview6-linux-arm32-binaries)<br>
-
+[How to deploy PowerShell Core to LXC Turiss Omnia Container](https://github.com/KUTlime/Installation-of-PowerShell-Core-to-Turris-Omnia-LXC-Container)
 ## Credits
 
 All goes to .NET Core team. YOU ROCK!
